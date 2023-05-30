@@ -1,0 +1,100 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "slug": "frontend-developer",
+      "experience": "3 year",
+      "type": "Onsite",
+      "endDate": "20 Juli 2023"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "slug": "data-analyst",
+      "experience": "1 year",
+      "type": "Onsite",
+      "endDate": "15 Juli 2023"
+    },
+    {
+      "id": 3,
+      "title": "Quality Assurance Engineer",
+      "slug": "quality-assurance-engineer",
+      "experience": "1.5 year",
+      "type": "Onsite",
+      "endDate": "10 Juni 2023"
+    },
+    {
+      "id": 4,
+      "title": "Fullstack Developer",
+      "slug": "fullstack-developer",
+      "experience": "2.5 year",
+      "type": "Onsite",
+      "endDate": "09 Juni 2023"
+    },
+    {
+      "id": 5,
+      "title": "Mobile Developer",
+      "slug": "mobile-developer",
+      "experience": "1 year",
+      "type": "Remote",
+      "endDate": "29 Mei 2023"
+    },
+    {
+      "id": 6,
+      "title": "UI UX Designer",
+      "slug": "ui-ux-designer",
+      "experience": "1 year",
+      "type": "Onsite",
+      "endDate": "13 Juli 2023"
+    },
+    {
+      "id": 7,
+      "title": "Project Manager",
+      "slug": "project-manager",
+      "experience": "4 year",
+      "type": "Onsite",
+      "endDate": "10 Juli 2023"
+    },
+    {
+      "id": 8,
+      "title": "Fullstack Developer Internship",
+      "slug": "fullstack-developer-internship",
+      "experience": "5 month - 1 year",
+      "type": "Remote",
+      "endDate": "29 Juli 2023"
+    },
+    {
+      "id": 9,
+      "title": "Frontend Developer Internship",
+      "slug": "frontend-developer-internship",
+      "experience": "5 month",
+      "type": "Remote",
+      "endDate": "29 Juli 2023"
+    },
+    {
+      "id": 10,
+      "title": "Backend Developer",
+      "slug": "backend-developer",
+      "experience": "2 year",
+      "type": "Onsite",
+      "endDate": "28 Juni 2023"
+    },
+    {
+      "id": 11,
+      "title": "Backend Developer Internship",
+      "slug": "backend-developer-intership",
+      "experience": "5 month",
+      "type": "Remote",
+      "endDate": "29 Juli 2023"
+    },
+    {
+      "id": 12,
+      "title": "Graphic Designer",
+      "slug": "graphic-designer",
+      "experience": "1 year",
+      "type": "Onsite",
+      "endDate": "20 Juni 2023"
+    }
+  ]
+}
