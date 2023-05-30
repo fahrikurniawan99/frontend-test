@@ -25,7 +25,7 @@ const ApplyForm = ({ dataUser }: Props) => {
     });
 
     return () => {};
-  }, []);
+  }, [dataUser]);
 
   if (isLoading) {
     return (
