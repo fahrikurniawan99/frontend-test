@@ -1,5 +1,5 @@
 ## BahawanCarrer
-Website yang di peruntukan untuk para pencari kerja di dunia teknologi. Mereka bisa memilih berbagai macam lowongan sesuai minat dan bakat dengaan kemudahan fitur dari website ini.
+Website yang di peruntukan untuk para pencari kerja di dunia teknologi. Mereka bisa memilih berbagai macam lowongan sesuai minat dan bakat dengan kemudahan fitur dari website ini.
 [Demo Website](https://bahawancarrer.vercel.app/)
 
 ## Fitur
