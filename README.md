@@ -1,38 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## BahawanCarrer
+Website yang di peruntukan untuk para pencari kerja di dunia teknologi. Mereka bisa memilih berbagai macam lowongan sesuai minat dan bakat dengaan kemudahan fitur dari website ini.
+[Demo Website](https://bahawancarrer.vercel.app/)
 
-## Getting Started
+## Fitur
+- Authentication & Authorization.
+- 10+ Lowongan kerja.
+- Detail lowongan kerja.
+- Melakukan lamaran kerja serta validasi agar pelamar hanya bisa melakukan 1 kali lamaran di posisi yang sama.
+- Melihat riwayat lamaran kerja.
+- Mengelola informasi pribadi.
+- Responsive design.
 
-First, run the development server:
+## Tools
+- Nextjs dan Typescript
+- Tailwindcss dan Radix-ui
+- Next-auth
+- Prisma ORM
+- Formik dan yup-validation
+- Axios
+- Serta tools atau library tambahan lainya.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Panduan
+### Menjalankan projek di lokal
+
+```sh
+git clone https://github.com/fahrikurniawan99/frontend-test.git
+```
+```sh
+cd frontend-test
+```
+```sh
+npm install
+```
+atau
+```sh
+yarn
+```
+Selanjutnya buat file .env seperi berikut
+```sh
+DATABASE_URL=[isi dengan kredensial yang sudah di berikan]
+NEXTAUTH_SECRET=[isi dengan kredensial yang sudah di berikan]
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Lanjutkan perintah :
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```sh
+npm run build
+```
+atau
+```sh
+yarn build
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Langka terakhir :
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+npm start
+```
+atau
+```sh
+yarn start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Dan sekarang anda bisa membukanya di browser pada port 3000 atau sesuaikan.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Menjalankan dengan mode development
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```sh
+git clone https://github.com/fahrikurniawan99/frontend-test.git
+```
+```sh
+cd frontend-test
+```
+```sh
+npm install
+```
+atau
+```sh
+yarn
+```
+Selanjutnya buat file .env seperi berikut
+```sh
+DATABASE_URL=[isi dengan kredensial yang sudah di berikan]
+NEXTAUTH_SECRET=[isi dengan kredensial yang sudah di berikan]
+```
 
-## Deploy on Vercel
+Langka terakhir :
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```sh
+npm run dev
+```
+atau
+```sh
+yarn dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Dan sekarang anda bisa membukanya di browser pada port 3000 atau sesuaikan.
+
+## Kontak
+mohammadfahrikurniawan@gmail.com
