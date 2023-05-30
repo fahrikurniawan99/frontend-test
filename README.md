@@ -52,7 +52,7 @@ atau
 yarn build
 ```
 
-Langka terakhir :
+Langkah terakhir :
 
 ```sh
 npm start
@@ -87,7 +87,7 @@ DATABASE_URL=[isi dengan kredensial yang sudah di berikan]
 NEXTAUTH_SECRET=[isi dengan kredensial yang sudah di berikan]
 ```
 
-Langka terakhir :
+Langkah terakhir :
 
 ```sh
 npm run dev
